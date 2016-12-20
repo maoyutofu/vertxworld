@@ -14,7 +14,6 @@
 ##关于我
 ```javascript
   var me = {
-    name: "唐际忠",
     nickName: "lemontea",
     site: "http://www.javafm.com",
     blog : "http://www.cnblogs.com/tangjizhong"
