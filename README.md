@@ -1,4 +1,4 @@
-#唐际忠的Vert.X学习笔记
+#和我一起学 Vert.X by 唐际忠
 
 ##学习目录
 * [vert.x学习（一），开篇之hello world](http://www.cnblogs.com/tangjizhong/p/6197697.html)
