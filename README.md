@@ -1,4 +1,4 @@
-#和我一起学 Vert.X by 唐际忠
+#柠檬笔记 Vert.X
 
 ##学习目录
 * [vert.x学习（一），开篇之hello world](http://www.cnblogs.com/tangjizhong/p/6197697.html)
@@ -9,3 +9,13 @@
 
 ##附录
 学习的时候参考vert.x官方文档效果更佳 http://vertx.io/docs/
+
+
+##关于我
+```javascript
+  var me = {
+    name: "唐际忠",
+    nickName: "lemontea",
+    site : "http://www.cnblogs.com/tangjizhong/"
+  }
+```
