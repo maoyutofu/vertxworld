@@ -8,6 +8,7 @@
 * [vert.x学习（四），使用模板解析器ClassLoaderTemplateResolver](http://www.cnblogs.com/tangjizhong/p/6201785.html)
 * [vert.x学习（五），用StaticHandler来处理静态文件](http://www.cnblogs.com/tangjizhong/p/6202462.html)
 * [vert.x学习（六），动态模板与静态文件的结合](http://www.cnblogs.com/tangjizhong/p/6203787.html)
+* [vert.x学习（七），使用表单获取用户提交的数据](http://www.cnblogs.com/tangjizhong/p/6206702.html)
 
 ##附录
 学习的时候参考vert.x官方文档效果更佳 http://vertx.io/docs/
