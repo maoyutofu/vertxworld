@@ -16,10 +16,10 @@ public class DataAccess {
 
     static {
         config = new JsonObject();
-        config.put("url", "jdbc:mysql://112.74.78.111:3306/test");
+        config.put("url", "jdbc:mysql://localhost:3306/test");
         config.put("driver_class", "com.mysql.jdbc.Driver");
         config.put("user", "root");
-        config.put("password", "admin1001");
+        config.put("password", "password");
     }
 
     public static DataAccess create(Vertx vertx) {
@@ -42,7 +42,7 @@ public class DataAccess {
         return jdbcClient;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Vertx vertx = Vertx.vertx();
         DataAccess dataAccess = DataAccess.create(vertx);
         dataAccess.getJDBCClient().getConnection(res -> {
@@ -59,5 +59,5 @@ public class DataAccess {
                 System.out.println(res.cause());
             }
         });
-    }
+    }*/
 }
